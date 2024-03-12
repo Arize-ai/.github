@@ -31,7 +31,7 @@
 ### Arize SDKs
 - [Python](https://github.com/Arize-ai/client_python) - The Arize SDK for python
 - [Java](https://github.com/Arize-ai/client_java) - The Arize SDK for Java
-- [Go](https://github.com/Arize-ai/client_golang) - THe Arize SDK for Go
+- [Go](https://github.com/Arize-ai/client_golang) - The Arize SDK for Go
 - [R](https://github.com/Arize-ai/client_r) - the Arize SDK for R
 
 ### Research
