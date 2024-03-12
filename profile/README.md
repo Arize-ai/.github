@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://storage.googleapis.com/arize-assets/arize-logo-white.jpg" width="300" /><br><br>
+  <img src="https://storage.googleapis.com/arize-assets/arize-logo-white.jpg" width="300" /><br>
   <h2>To make the world’s AI work and work for the people<h2>
   <p align="center">
     <a
     href="https://twitter.com/arizeai">
-        <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+        <img src="https://img.shields.io/badge/X/Twitter-000000?style=flat&logo=x&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/company/arizeai">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://join.slack.com/t/arize-ai/shared_invite/zt-1px8dcmlf-fmThhDFD_V_48oU7ALan4Q">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
     </a>
     <a href="https://www.youtube.com/@arizeai">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
     </a>
   </p>
 </div>
