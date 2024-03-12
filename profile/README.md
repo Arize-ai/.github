@@ -32,7 +32,7 @@
 - [Python](https://github.com/Arize-ai/client_python) - The Arize SDK for python
 - [Java](https://github.com/Arize-ai/client_java) - The Arize SDK for Java
 - [Go](https://github.com/Arize-ai/client_golang) - The Arize SDK for Go
-- [R](https://github.com/Arize-ai/client_r) - the Arize SDK for R
+- [R](https://github.com/Arize-ai/client_r) - The Arize SDK for R
 
 ### Research
 - [Needle In A Haystack](https://github.com/Arize-ai/LLMTest_NeedleInAHaystack) - Retrieval from LLM models at various context lengths to measure accuracy
