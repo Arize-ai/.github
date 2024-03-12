@@ -26,12 +26,13 @@
 - [openinference](https://github.com/Arize-ai/openinference) - Trace Instrumentation for AI Observability
 
 ### Arize Tutorials
-- [Python Tutorials](https://github.com/Arize-ai/tutorials_python)
+- [Python Tutorials](https://github.com/Arize-ai/tutorials_python) - Various tutorials on how to interact with Arize
 
 ### Arize SDKs
 - [Python](https://github.com/Arize-ai/client_python) - The Arize SDK for python
 - [Java](https://github.com/Arize-ai/client_java) - The Arize SDK for Java
-- [R](https://github.com/Arize-ai/client_r) - he Arize SDK for R
+- [Go](https://github.com/Arize-ai/client_golang) - THe Arize SDK for Go
+- [R](https://github.com/Arize-ai/client_r) - the Arize SDK for R
 
 ### Research
 - [Needle In A Haystack](https://github.com/Arize-ai/LLMTest_NeedleInAHaystack) - Retrieval from LLM models at various context lengths to measure accuracy
