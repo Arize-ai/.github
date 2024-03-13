@@ -23,5 +23,6 @@
   - [Tutorials](https://github.com/Arize-ai/tutorials_python) - Python Notebooks showcasing how to use Arize
 
 **Open-Source**
-- [Arize-Phoenix](https://github.com/Arize-ai/phoenix) - AI Observability and Evaluation
+- [arize-phoenix](https://github.com/Arize-ai/phoenix) - AI Observability and Evaluation
 - [openinference](https://github.com/Arize-ai/openinference) - Trace Instrumentation for AI Observability
+  - **Instrumentations** - [Python](https://github.com/Arize-ai/openinference/tree/main/python), [JavaScript](https://github.com/Arize-ai/openinference/tree/main/js)   
