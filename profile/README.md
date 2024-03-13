@@ -25,6 +25,3 @@
 **Open-Source**
 - [Arize-Phoenix](https://github.com/Arize-ai/phoenix) - AI Observability and Evaluation
 - [openinference](https://github.com/Arize-ai/openinference) - Trace Instrumentation for AI Observability
-
-**Research**
-- [Needle In A Haystack](https://github.com/Arize-ai/LLMTest_NeedleInAHaystack) - Retrieval from LLM models at various context lengths to measure accuracy
