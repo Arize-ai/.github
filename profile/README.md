@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://storage.googleapis.com/arize-assets/arize-logo-white.jpg" width="300" /><br>
-  <h2>To make the world’s AI work and work for the people<h2>
+  <img src="https://storage.googleapis.com/arize-assets/Arize_Header-GitHub.jpg" /><br><br>
   <p align="center">
     <a
     href="https://twitter.com/arizeai">
